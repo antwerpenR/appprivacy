@@ -30,8 +30,6 @@ If you have questions about deleting or correcting your personal data please con
 
 Adapted from the [automattic.com](https://automattic.com/privacy/) privacy policy under a [Creative Commons Sharealike](https://creativecommons.org/licenses/by-sa/2.5/) license.
 Date of last update: 
-4 November 2016 - revert to Original version - each app will have its own page
-26 October 2016 - extend for an additional App - same terms as Eye Opener HK Hiking App
-10 October 2016 - Original Version
+1 December 2016 - Original Version
 
 
