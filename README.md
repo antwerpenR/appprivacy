@@ -1,6 +1,6 @@
 # App Privacy Policy
 
-This is the privacy policy for Privacy Policy for Meetup Apps ("TheApps", or singly "TheApp") produced by New Perspectives Far East Limited registered at 3F, 148 Wing Lok Street, Sheung Wan Hong Kong - hereafter referred to as NPFE.
+This is the privacy policy for Privacy Policy for Meetup Apps ("TheApps", or singly "TheApp") produced by New Perspectives Far East Limited registered at G/F, 5-13 New Street, Sai Ying Pun, Hong Kong - hereafter referred to as NPFE.
 
 ### App users
 TheApp does collect and share information that you have chosen to make public to members of the relevant meetup.com group(s).  Your usage of TheApp constitutes your acceptance of this Privacy Policy.
@@ -31,5 +31,6 @@ If you have questions about deleting or correcting your personal data please con
 Adapted from the [automattic.com](https://automattic.com/privacy/) privacy policy under a [Creative Commons Sharealike](https://creativecommons.org/licenses/by-sa/2.5/) license.
 Date of last update: 
 1 December 2016 - Original Version
+3 January 2018 - Change of Address
 
 
